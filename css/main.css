@@ -1,0 +1,243 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px; 
+    background-color: #020202;
+}
+.container-fluid{
+    margin: 0px;
+    padding: 0px;
+}
+.introduction{
+    background-color: #020202;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#020202;
+    color: whitesmoke;
+}
+.name{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 3px;
+}
+.name{
+ color:white;   
+}
+.fnln{
+    display: flex;
+}
+#ln{
+    color:#F6E71D;
+}
+.myintro
+{
+    padding: 5px;
+}
+
+
+
+
+
+.projects{
+    background-color:#F6E71D ;
+    height: auto;
+    color: #020202;
+}
+
+.project-content .container-fluid.container-fluid.overflow-hidden .row
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.project-content .container-fluid.overflow-hidden .row .col-sm-4{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#181818;
+    width: 300px;
+    height: auto;
+    margin: 10px;
+    color: white;
+    border-radius: 20px;
+    border: solid 2px #020202;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.project-content .container-fluid.overflow-hidden .row .col-sm-4:hover{
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0), 0 6px 20px 0 rgb(0, 0, 0);
+}
+.h5.test-center{
+    text-align: center;
+}
+
+.col-sm-4 .btn.btn-success{
+    background-color:#181818;
+    color:#F5D10D;
+    border: solid 2px #F5D10D;
+    border-radius: 20px;
+}
+.col-sm-4 .btn.btn-success:hover{
+    border: solid 2px black;
+    background-color: white;
+    color: black;
+}
+.project-heading{
+    padding: 5px;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+
+.skills{
+    background-color:#020202 ;
+    height: auto;
+    color: white;
+}
+
+.skill-heading{
+    padding-left: 5px;
+}
+
+.skills .container-fluid.container-fluid.overflow-hidden .row
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.skill-content .container-fluid.overflow-hidden .row .col-sm-4{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color:transparent;
+    width: 100px;
+    height: auto;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.about-me{
+    background-color: #181818;
+    color: white;
+    height: auto;
+    padding: 5px;
+    border-radius: 30px;
+}
+
+.about-me-heading{
+    padding-left: 5px;
+}
+.about-me-content{
+    padding: 5px;
+}
+
+.cp-profile{
+    background-color: white;
+    color:#020202;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.table.table-bordered.table-light{
+    background-color: #181818;
+}
+
+.blacklink{
+    color: black;
+}
+.cp-links .container-fluid.overflow-hidden .row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.cp-links .container-fluid.overflow-hidden .row .col-sm-4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    border-radius: 20px;
+    width: 100px;
+    height: auto;
+    color:black;
+    text-align: center;
+}
+
+.contact-me{
+    background-color:#020202 ;
+    height: auto;
+    color: white;
+}
+.contact-me-heading{
+    margin: 20px;
+}
+.contact-me-content .container-fluid.container-fluid.overflow-hidden .row
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.contact-me-content .container-fluid.overflow-hidden .row .col-sm-4{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color:transparent;
+    width: 150px;
+    height: auto;
+    color: white;
+    text-align: center;
+}
+
+
+
+.social-handles{
+    background-color:#020202 ;
+    height: auto;
+    color: white;
+    padding-bottom: 30px;
+}
+.social-handles-heading{
+    margin: 20px;
+}
+.social-handles-content .container-fluid.container-fluid.overflow-hidden .row
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.social-handles-content .container-fluid.overflow-hidden .row .col-sm-4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    border-radius: 20px;
+    width: 50px;
+    height: 50px;
+    color: white;
+    text-align: center;
+}
+
+
+img
+{
+    width: 100%;
+    height: auto;
+}
